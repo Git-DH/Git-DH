@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
 
 * 🌱 I am currently studying the full-stack course.
-* 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
 * 👍 I started late, but I'm doing my best right now:exclamation:
 
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
