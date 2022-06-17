@@ -22,5 +22,15 @@ Here are some ideas to get you started:
 * 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
 * 👍 I started late, but I'm doing my best right now:exclamation:
 
+<h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
+ </p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh9345)](https://solved.ac/profile/kdh9345)
  <img src="http://mazandi.herokuapp.com/api?handle=kdh9345&theme=cold"/>
