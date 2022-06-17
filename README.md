@@ -30,5 +30,14 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
  </p>
 
+***
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh9345)](https://solved.ac/profile/kdh9345)
  <img src="http://mazandi.herokuapp.com/api?handle=kdh9345&theme=cold"/>
+ 
+ ***
+ 
+ <br>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Git-DH&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-DH&layout=compact&theme=flag-india&hide_border=true" /></a> |
+| ------------- | ------------- |
