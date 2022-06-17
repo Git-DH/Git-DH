@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=Git-DH%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
-
 <br>
 
 <h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
