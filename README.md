@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=Git-DH%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 <br>
 
-<h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
-
-* 🌱 I am currently studying the full-stack course.
-* 👍 I started late, but I'm doing my best right now:exclamation:
-
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
 <p align="center">
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
