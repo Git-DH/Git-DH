@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ***
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh9345)](https://solved.ac/profile/kdh9345)
-<img display="block" margin= "0px auto" src="http://mazandi.herokuapp.com/api?handle=kdh9345&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle=kdh9345&theme=cold"/>
  
  ***
  
